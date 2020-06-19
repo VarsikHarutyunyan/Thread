@@ -1,0 +1,11 @@
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\bin\Debug\netcoreapp3.1\ThreadSemaphore.exe
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\bin\Debug\netcoreapp3.1\ThreadSemaphore.deps.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\bin\Debug\netcoreapp3.1\ThreadSemaphore.runtimeconfig.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\bin\Debug\netcoreapp3.1\ThreadSemaphore.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\bin\Debug\netcoreapp3.1\ThreadSemaphore.dll
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\bin\Debug\netcoreapp3.1\ThreadSemaphore.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\obj\Debug\netcoreapp3.1\ThreadSemaphore.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\obj\Debug\netcoreapp3.1\ThreadSemaphore.AssemblyInfo.cs
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\obj\Debug\netcoreapp3.1\ThreadSemaphore.dll
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\obj\Debug\netcoreapp3.1\ThreadSemaphore.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThreadSemaphore\obj\Debug\netcoreapp3.1\ThreadSemaphore.genruntimeconfig.cache

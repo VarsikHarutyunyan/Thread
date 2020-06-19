@@ -1,0 +1,11 @@
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThreadTimer.exe
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThreadTimer.deps.json
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThreadTimer.runtimeconfig.json
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThreadTimer.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThreadTimer.dll
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThreadTimer.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThreadTimer.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThreadTimer.AssemblyInfo.cs
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThreadTimer.dll
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThreadTimer.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThreadTimer.genruntimeconfig.cache

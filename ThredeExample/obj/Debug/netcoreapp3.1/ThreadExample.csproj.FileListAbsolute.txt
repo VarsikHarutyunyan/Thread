@@ -1,0 +1,12 @@
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\bin\Debug\netcoreapp3.1\ThreadExample.exe
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\bin\Debug\netcoreapp3.1\ThreadExample.deps.json
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\bin\Debug\netcoreapp3.1\ThreadExample.runtimeconfig.json
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\bin\Debug\netcoreapp3.1\ThreadExample.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\bin\Debug\netcoreapp3.1\ThreadExample.dll
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\bin\Debug\netcoreapp3.1\ThreadExample.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\obj\Debug\netcoreapp3.1\ThreadExample.csprojAssemblyReference.cache
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\obj\Debug\netcoreapp3.1\ThreadExample.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\obj\Debug\netcoreapp3.1\ThreadExample.AssemblyInfo.cs
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\obj\Debug\netcoreapp3.1\ThreadExample.dll
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\obj\Debug\netcoreapp3.1\ThreadExample.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThredeExample\obj\Debug\netcoreapp3.1\ThreadExample.genruntimeconfig.cache

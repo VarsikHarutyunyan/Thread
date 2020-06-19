@@ -1,0 +1,12 @@
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\bin\Debug\netcoreapp3.1\ThreadeLock.exe
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\bin\Debug\netcoreapp3.1\ThreadeLock.deps.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\bin\Debug\netcoreapp3.1\ThreadeLock.runtimeconfig.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\bin\Debug\netcoreapp3.1\ThreadeLock.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\bin\Debug\netcoreapp3.1\ThreadeLock.dll
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\bin\Debug\netcoreapp3.1\ThreadeLock.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\obj\Debug\netcoreapp3.1\ThreadeLock.csprojAssemblyReference.cache
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\obj\Debug\netcoreapp3.1\ThreadeLock.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\obj\Debug\netcoreapp3.1\ThreadeLock.AssemblyInfo.cs
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\obj\Debug\netcoreapp3.1\ThreadeLock.dll
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\obj\Debug\netcoreapp3.1\ThreadeLock.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThreadeLock\obj\Debug\netcoreapp3.1\ThreadeLock.genruntimeconfig.cache

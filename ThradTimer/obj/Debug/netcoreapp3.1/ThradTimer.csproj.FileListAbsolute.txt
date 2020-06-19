@@ -1,0 +1,12 @@
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThradTimer.exe
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThradTimer.deps.json
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThradTimer.runtimeconfig.json
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThradTimer.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThradTimer.dll
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\bin\Debug\netcoreapp3.1\ThradTimer.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThradTimer.csprojAssemblyReference.cache
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThradTimer.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThradTimer.AssemblyInfo.cs
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThradTimer.dll
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThradTimer.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThradTimer\obj\Debug\netcoreapp3.1\ThradTimer.genruntimeconfig.cache

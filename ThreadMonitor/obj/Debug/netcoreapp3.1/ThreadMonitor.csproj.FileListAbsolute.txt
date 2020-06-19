@@ -1,0 +1,12 @@
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.exe
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.deps.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.runtimeconfig.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.dll
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\bin\Debug\netcoreapp3.1\ThreadMonitor.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.csprojAssemblyReference.cache
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.AssemblyInfo.cs
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.dll
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThreadMonitor\obj\Debug\netcoreapp3.1\ThreadMonitor.genruntimeconfig.cache

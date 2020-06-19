@@ -1,0 +1,11 @@
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\bin\Debug\netcoreapp3.1\ThredMutex.exe
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\bin\Debug\netcoreapp3.1\ThredMutex.deps.json
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\bin\Debug\netcoreapp3.1\ThredMutex.runtimeconfig.json
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\bin\Debug\netcoreapp3.1\ThredMutex.runtimeconfig.dev.json
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\bin\Debug\netcoreapp3.1\ThredMutex.dll
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\bin\Debug\netcoreapp3.1\ThredMutex.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\obj\Debug\netcoreapp3.1\ThredMutex.AssemblyInfoInputs.cache
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\obj\Debug\netcoreapp3.1\ThredMutex.AssemblyInfo.cs
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\obj\Debug\netcoreapp3.1\ThredMutex.dll
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\obj\Debug\netcoreapp3.1\ThredMutex.pdb
+C:\Users\varsi\source\repos\ThredeExample\ThredMutex\obj\Debug\netcoreapp3.1\ThredMutex.genruntimeconfig.cache
